@@ -1,2 +1,2 @@
-# Git
-Demo repository
+# Git 
+author: Madhav Gupta
